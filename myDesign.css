@@ -1,0 +1,31 @@
+#table_borders{
+    width:100%;
+    border: 1px solid black;
+    border-collapse: collapse;
+} 
+#table_header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+#table_odd {
+    background-color: grey;
+    color: black;
+    text-align: center;
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+#table_even {
+    background-color: white;
+    color: black;
+    text-align: center;
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+#errors {
+    color: red;
+}
+
+
